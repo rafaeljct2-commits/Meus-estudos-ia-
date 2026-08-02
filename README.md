@@ -1,6 +1,6 @@
-#Olá, eu sou Rafael
+# Olá, eu sou Rafael
 
-##Estou estudando:
+## Estou estudando:
  
 - Inteligência Artificial
 
