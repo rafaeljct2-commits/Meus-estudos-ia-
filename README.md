@@ -13,7 +13,6 @@
 
 ## Objetivos
 
-
 - Aprender IA
 
 - Melhorar meu inglês
@@ -26,7 +25,8 @@
 
 Atualmente estou estudando Ia
 Generativa através da Microsoft Learn e
-desenvolvendo habilidades em Github, Python e Inglês 
+desenvolvendo habilidades em 
+Github, Python e Inglês 
 
 ## Conquistas 
 ✔️ Introducao à IA Generativa e aos Agentes
