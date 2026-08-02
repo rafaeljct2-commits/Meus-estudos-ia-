@@ -11,7 +11,7 @@
 - Tecnologia
 
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprender IA
 
@@ -21,12 +21,12 @@
   
 - Trabalhar internacionalmente
   
-## Minha jornada
+## 🚀 Minha jornada
 
 Atualmente estou estudando Ia
 Generativa através da Microsoft Learn e
 desenvolvendo habilidades em 
 Github, Python e Inglês 
 
-## Conquistas 
+## 🏆 Conquistas 
 ✔️ Introducao à IA Generativa e aos Agentes
