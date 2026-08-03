@@ -1,32 +1,76 @@
-# Olá, eu sou Rafael
+# 🚀 Meus Estudos em IA, Python e Tecnologia
 
-## Estou estudando:
- 
+Repositório dedicado à minha jornada de aprendizado em tecnologia, programação e Inteligência Artificial.
+
+## 📚 Áreas de Estudo
+
 - Inteligência Artificial
-
-- Inglês
-
 - Python
-
+- Inglês
 - Tecnologia
-
+- Desenvolvimento de Jogos
+- Git e GitHub
 
 ## 🎯 Objetivos
 
-- Aprender IA
-
+- Aprender Inteligência Artificial
 - Melhorar meu inglês
-  
-- Construir projetos
-  
+- Construir projetos práticos
+- Desenvolver habilidades em programação
+- Criar um portfólio de tecnologia
 - Trabalhar internacionalmente
-  
-## 🚀 Minha jornada
 
-Atualmente estou estudando Ia
-Generativa através da Microsoft Learn e
-desenvolvendo habilidades em 
-Github, Python e Inglês 
+## 🚀 Minha Jornada
 
-## 🏆 Conquistas 
-✔️ Introducao à IA Generativa e aos Agentes
+Atualmente estou estudando:
+
+- IA Generativa
+- Python
+- Desenvolvimento de Jogos
+- Git e GitHub
+- Inglês para Tecnologia
+
+Meu objetivo é evoluir constantemente através de estudos, prática e desenvolvimento de projetos.
+
+## 🛠 Tecnologias
+
+- Python
+- Git
+- GitHub
+- Pygame
+- Microsoft Copilot
+- Inteligência Artificial
+
+## 🎮 Projetos
+
+### Jogos em Python
+
+- Pedra, Papel e Tesoura
+- Jogo da Adivinhação
+- Forca
+- Jogo da Velha
+- Calculadora
+- Tabuada
+
+### Jogos com Pygame
+
+- Cobrinha
+- Pong
+
+### Projetos Avançados
+
+- Cobrinha Completa
+- Pong Completo
+- Forca Completa
+
+## 📈 Próximos Passos
+
+- Criar aplicativos com Python
+- Aprender desenvolvimento web
+- Aprender automação
+- Aprender IA aplicada a projetos
+- Publicar projetos mais avançados no GitHub
+
+## 🌟 Motivação
+
+"A melhor maneira de aprender programação é construir projetos e praticar todos os dias."
